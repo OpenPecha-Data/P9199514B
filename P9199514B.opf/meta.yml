@@ -1,0 +1,13 @@
+id: P9199514B
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: zh
+  volumes:
+    4ea65027d2c74224ad9c186533a78500:
+      title: .txt
+      base_file: .txt.txt
+      work_id: W5A4E8A9A
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:21:02.299016'
+last_modified_at: '2022-03-01T21:21:02.299022'
